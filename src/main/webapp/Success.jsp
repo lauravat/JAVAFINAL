@@ -8,6 +8,7 @@
 
 </head>
 <body>
+    <%@ include file="jsp/header.html" %>
     <h1>Registro exitoso</h1>
     <%@ include file="jsp/footer.html" %> 
 </body>
