@@ -17,7 +17,7 @@
 </head>
 <body>
     <div class="container">
-        <header></header>
+        <header><%@ include file="jsp/header.html" %></header>
         <nav></nav>
         <section>
             <form action="./register-category" method="post">
