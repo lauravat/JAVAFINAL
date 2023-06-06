@@ -16,7 +16,7 @@
 </head>
 <body>
 <div class="container">
-    <header></header>
+    <header><%@ include file="jsp/header.html" %></header>
     <nav></nav>
     <section>
         <form action="./register-user" method="post" class="formRegister">
